@@ -571,7 +571,7 @@ main <- function(trainingMode, baseDir,dataFileName,threshold){
 trainingMode <- "N"
 
 # Indicates the directory of the data files
-baseDir <- "C:/Rao/Documentation/myDocs/Personal/MS_SNHU/DAT-690 Capstone Project/Final Project"  
+baseDir <- #set as your own base DIR  
 
 # training or verification data set file name
 # Use the appropriate data set depending on whether we want to train the model or perform predictions
